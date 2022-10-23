@@ -2,7 +2,7 @@ let livros = []
 
 const endpointDaAPI = 'https://guilhermeonrails.github.io/casadocodigo/livros.json'
 getBuscarLivrosDaAPI();
-const elementInsertLivros = document.getElementById('livros');
+
 
 
 async function getBuscarLivrosDaAPI() {
